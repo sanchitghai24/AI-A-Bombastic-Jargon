@@ -5,6 +5,8 @@
 By the End of this Article you'll be able to classify things happening around in a better fashion as Artificial Intelligence, Machine Learning, Deep Learning, Deep Reinforcement Learning, Computer Vision, Data Science, Pattern Recognition and so on.
 ```
 
+---
+
 ## What is the Jagron Bubble floating around in AI ?
 
 All of us have come along these definitions where people quote Data Science, Artificial Intelligence, Deep Learning, Machine Learning etc normally and we get confused by what the person really means.
@@ -40,4 +42,34 @@ is an <span style="color:red">_interdisciplinary field_</span> that deals with h
 
 
 ### Deep Learning
-is a new area of <span style="color:red">_Machine Learning research_</span>, which has been introduced with the objective of moving Machine Learning closer to one of its original goals: <span style="color:yellow">_Artificial Intelligence_</span>.
+is a new area of <span style="color:red">_Machine Learning research_</span>, which has been introduced with the objective of moving Machine Learning closer to one of its original goals: <span style="color:blueviolet">_Artificial Intelligence_</span>.
+
+
+
+Now after reading so many definitions are you clear with the meaning ? or still confused ?
+Talking about me I am confused !
+- Does AI not involve stastical techniques, data, learning ?
+- Is it AI only if it is explicitly programmed ?
+- Is AI/ML not interdisciplinary, or don't they deal with structured data, or scientific methods ?
+- Recognition of Patterns isn't similar to _Intelligence_, _insights from data_, _learn from data_ ?
+
+
+## Bursting the Bubble
+
+Let's solve this problem with an alternate approach and split everything to 3 categories
+- Abilities
+- Task
+- Methods
+
+### Task
+  1. We can see (Computer Vision)
+  2. We can speak and hear (Speech)
+  3. We can Read and Write (Natural Language Processing)
+  4. We make decisions all day long (Reinforcement Learning)
+  
+
+### tasks
+  ####Computer Vision
+    - If you can classify two or more animals using there demographics. <img src='https://cdn-images-1.medium.com/max/1280/1*biZq-ihFzq1I6Ssjz7UtdA.jpeg'>
+    - If you can recognize handwritten digits. <img src='https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Examples-from-the-MNIST-dataset.png'>
+    - If you can detect an object in an image like, Coffee, Phone, Glasses etc. <img src='https://www.envano.com/wp-content/uploads/2017/08/AI_Object_Recognition_Feature_Img.jpg'>
