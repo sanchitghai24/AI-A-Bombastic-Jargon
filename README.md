@@ -24,20 +24,20 @@ sometimes called machine intelligence, is intelligence demonstrated by machines,
 
 
 ### Machine Learning
-is a field of computer science that uses <span style="color:red">_statistical techniques_</span> to give computer systems the ability to _"learn"_ with _data_, and _without being explicitly programmed_.
+is a field of computer science that uses <span style="color:red">_statistical techniques_</span> to give computer systems the ability to <span style="color:red">_"learn"_</span> with <span style="color:red">_data_</span>, and <span style="color:red">_without being explicitly programmed_</span>.
 
 
 ### Data Science
-is an _interdisciplinary_ field that uses _scientific methods, processes, algorithms_ and systems to extract _knowledge_ and insights from data in various forms, _both structured and unstructured_,  similar to data mining.
+is an <span style="color:red">_interdisciplinary_</span> field that uses <span style="color:red">_scientific methods, processes, algorithms_</span> and systems to extract <span style="color:red">_knowledge_</span> and insights from data in various forms, <span style="color:red">_both structured and unstructured_</span>,  similar to data mining.
 
 
 ### Pattern Recognition
-is the automated _recognition of patterns_ and regularities _in data_.
+is the automated <span style="color:red">_recognition of patterns_</span> and regularities <span style="color:red">_in data_</span>.
 
 
 ### Computer Vision
-is an _interdisciplinary field_ that deals with how computers can be made to gain _high-level understanding_ from digital _images or videos_ and _automate tasks that the human visual system_ can do.
+is an <span style="color:red">_interdisciplinary field_</span> that deals with how computers can be made to gain <span style="color:red">_high-level understanding_</span> from digital <span style="color:red">_images or videos_</span> and <span style="color:red">_automate tasks that the human visual system_</span> can do.
 
 
 ### Deep Learning
-is a new area of _Machine Learning research_, which has been introduced with the objective of moving Machine Learning closer to one of its original goals: _Artificial Intelligence_.
+is a new area of <span style="color:red">_Machine Learning research_</span>, which has been introduced with the objective of moving Machine Learning closer to one of its original goals: <span style="color:yellow">_Artificial Intelligence_</span>.
