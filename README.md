@@ -111,7 +111,7 @@ AI encompasses all of this i.e. Abilities, Tasks, Methods.
 
 If I give the following data to the model and I get an Expert System program in return, as the machine itself creates some logics and rules to come at this conclusion. This is an example of Supervised Learning. Most of the Machine Learning is comprised of Supervised Learning only.
 
-<img title="Machine Learning" style="width:55%; margin:5%" src='images/machine_learning.gif'><img style="width:25%; margin:5%" title="Expert System" src='expert_system.JPG'>
+<img title="Machine Learning" style="width:55%; margin:5%" src='images/machine_learning.gif'><img style="width:25%; margin:5%" title="Expert System" src='images/expert_system.JPG'>
 
 
 ### Most AI Tasks Require Pattern Recognition...
@@ -127,7 +127,7 @@ If I give the following data to the model and I get an Expert System program in 
 ### What is Data Science ?
   What if I give you a data and after plotting it looks like the following bar plot, and ask you to tell me the amount of people going to come by next year i.e. 2020 ?
   
-  <img src="images/descriptive_graph.JPG" title="Descriptive Analytics"><img title="Models" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/800px-Arrow_east.svg.png"><img title="Predictive Analytics" src="images/predictive.JPG">
+  <img style="width:35%" src="images/descriptive_graph.JPG" title="Descriptive Analytics"><img style="margin:7.5%" title="Models" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/800px-Arrow_east.svg.png"><img title="Predictive Analytics" src="images/predictive.JPG">
   
   
   So, I would prefer the term Data Science when we are dealing with Numerical Data ( like database tables, Sales, Customers, Revenue etc).
