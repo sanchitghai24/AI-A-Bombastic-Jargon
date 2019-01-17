@@ -111,4 +111,39 @@ AI encompasses all of this i.e. Abilities, Tasks, Methods.
 
 If I give the following data to the model and I get an Expert System program in return, as the machine itself creates some logics and rules to come at this conclusion. This is an example of Supervised Learning. Most of the Machine Learning is comprised of Supervised Learning only.
 
-<img src='images/New GIF.gif'>
+<img title="Machine Learning" style="width:55%; margin:5%" src='images/machine_learning.gif'><img style="width:25%; margin:5%" title="Expert System" src='expert_system.JPG'>
+
+
+### Most AI Tasks Require Pattern Recognition...
+
+**How is Pattern Recognition Different ?**
+  The field of Pattern Recognition is concerned with the automatic discovery of regularities in data through the use of computer algorithm and with the use of these regularities take actions such as <span style="color:Red">Classification, Regression, CLustering etc.</span>
+  
+  
+### Is Image Processing different from Computer Vision ?
+  There is a small difference between Computer Vision and Image Processing. Computer Vision may uses a processed input image as it's input. For example if the input image is of irregular sizes to the model and the CV model only takes input size of 128x128 images, Then the images have to be resized and then sent to model.
+  Doing that transformation is called Image Processing.
+  
+### What is Data Science ?
+  What if I give you a data and after plotting it looks like the following bar plot, and ask you to tell me the amount of people going to come by next year i.e. 2020 ?
+  
+  <img src="images/descriptive_graph.JPG" title="Descriptive Analytics"><img title="Models" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/800px-Arrow_east.svg.png"><img title="Predictive Analytics" src="images/predictive.JPG">
+  
+  
+  So, I would prefer the term Data Science when we are dealing with Numerical Data ( like database tables, Sales, Customers, Revenue etc).
+  
+  
+  
+  
+  
+  
+  
+## Conclusion
+
+So by the end of the article, I expect you to be clear with what is AI, ML, PR etc. And will use the terms appropriately.
+
+
+## References
+
+I would like to refer One Fourth Labs Lecture on youtube named "Jagron Busting".
+You can find the video link at the following URL : https://www.youtube.com/watch?v=OMGt-jcMlCs
