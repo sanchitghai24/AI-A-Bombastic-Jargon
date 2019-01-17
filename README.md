@@ -74,21 +74,28 @@ Let's solve this problem with an alternate approach and split everything to 3 ca
   - Recognizing handwritten digits. 
   - Detecting an object in an image like, Coffee, Phone, Glasses etc.
   
-<img style="width:30%; margin:2%" src='https://cdn-images-1.medium.com/max/1280/1*biZq-ihFzq1I6Ssjz7UtdA.jpeg'><img style="width:30%; margin:2%" src='https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Examples-from-the-MNIST-dataset.png'><img style="width:30%; margin:2%" src='https://www.envano.com/wp-content/uploads/2017/08/AI_Object_Recognition_Feature_Img.jpg'>
+<img style="width:30%; margin:1%" src='https://cdn-images-1.medium.com/max/1280/1*biZq-ihFzq1I6Ssjz7UtdA.jpeg'><img style="width:30%; margin:1%" src='https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Examples-from-the-MNIST-dataset.png'><img style="width:30%; margin:1%" src='https://www.envano.com/wp-content/uploads/2017/08/AI_Object_Recognition_Feature_Img.jpg'>
   
 #### Speech
   - Retieving back something heard.
   - Converting this article to speech.
   - Hearing two different people speaking and able to distinguish between voices.
+
+<img style="width:30%; margin:1%" src="images/speech_to_text.JPG"><img style="width:30%; margin:1%" src="images/text_to_speech.JPG"><img style="width:30%; margin:1%" src="images/two_speech.JPG">
   
 ### Natural Processing Language
   - Classifying a spam or ham emails.
   - Translating something written from Hindi to English or vice-versa.
   
+<img style="width:30%; margin:1%" src="https://appliedmachinelearning.files.wordpress.com/2017/01/spam-filter.png?w=620"><img style="width:30%; margin:1%" src="images/translation.JPG">
+  
 ### Reinforcement Learning
   - The most common example we know is _Autonomous Driving_.
   - Alpha GO.
   - Teaching a robot to lift things according to their weight.
+  
+<img style="width:30%; margin:1%" src="https://www.extremetech.com/wp-content/uploads/2016/12/Waymo_FCA_Fully_Self_Driving_Chrysler_Pacifica_Hybrid_1-640x360.jpg">
+<img style="width:30%; margin:1%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtbvQN8scSjADHEJSNQo_uTZV7vQQsFgUtL-lJv2WVA5a2BPPc9Q"><img style="width:30%; margin:1%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpeSQapCAym0WSzILFdwhi--lGuH_n_mbGlPLgzGvjvY13Xp80Vw">
   
   
 ### Methods
