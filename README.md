@@ -1,13 +1,13 @@
-# Busting Jagron for AI
+# AI : A Bombastic Jargon
 
-```A lot of confusing terms are around us all the time, specially if a new person is trying to get into this field of Data.
+```Every newbie fascinated towards data analytics comes with the aspiration of exploring this field . Sadly, a lot of unwelcoming, cold and confusing jargons scare them and shoe them away. I would recommend you not be carried away by the fancy terms that people use. 
 
 By the End of this Article you'll be able to classify things happening around in a better fashion as Artificial Intelligence, Machine Learning, Deep Learning, Deep Reinforcement Learning, Computer Vision, Data Science, Pattern Recognition and so on.
 ```
 
 ---
 
-## What is the Jagron Bubble floating around in AI ?
+## What is the Jargon Bubble floating around in AI ?
 
 All of us have come along these definitions where people quote Data Science, Artificial Intelligence, Deep Learning, Machine Learning etc normally and we get confused by what the person really means.
 
@@ -111,7 +111,7 @@ AI encompasses all of this i.e. Abilities, Tasks, Methods.
 
 If I give the following data to the model and I get an Expert System program in return, as the machine itself creates some logics and rules to come at this conclusion. This is an example of Supervised Learning. Most of the Machine Learning is comprised of Supervised Learning only.
 
-<img title="Machine Learning" style="width:55%; margin:5%" src='images/machine_learning.gif'><img style="width:25%; margin:5%" title="Expert System" src='images/expert_system.JPG'>
+<img title="Machine Learning" style="width:47.5%; margin:5%" src='images/machine_learning.gif'><img style="width:10%; margin-bottom:7.5%" title="Models" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/800px-Arrow_east.svg.png"><img style="width:22.5%; margin:5%" title="Expert System" src='images/expert_system.JPG'>
 
 
 ### Most AI Tasks Require Pattern Recognition...
@@ -145,5 +145,5 @@ So by the end of the article, I expect you to be clear with what is AI, ML, PR e
 
 ## References
 
-I would like to refer One Fourth Labs Lecture on youtube named "Jagron Busting".
-You can find the video link at the following URL : https://www.youtube.com/watch?v=OMGt-jcMlCs
+I would like to refer One Fourth Labs Lecture on youtube named "Jargon Busting".
+To see the video <a href="https://www.youtube.com/watch?v=OMGt-jcMlCs">Click Here</a>.
