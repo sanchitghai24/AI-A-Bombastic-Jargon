@@ -127,7 +127,7 @@ If I give the following data to the model and I get an Expert System program in 
 ### What is Data Science ?
   What if I give you a data and after plotting it looks like the following bar plot, and ask you to tell me the amount of people going to come by next year i.e. 2020 ?
   
-  <img style="width:35%" src="images/descriptive_graph.JPG" title="Descriptive Analytics"><img style="margin:7.5%" title="Models" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/800px-Arrow_east.svg.png"><img title="Predictive Analytics" src="images/predictive.JPG">
+  <img style="width:35%" src="images/descriptive_graph.JPG" title="Descriptive Analytics"><img style="width:10%; margin-bottom:7.5%" title="Models" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Arrow_east.svg/800px-Arrow_east.svg.png"><img title="Predictive Analytics" src="images/predictive.JPG">
   
   
   So, I would prefer the term Data Science when we are dealing with Numerical Data ( like database tables, Sales, Customers, Revenue etc).
