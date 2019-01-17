@@ -19,31 +19,31 @@ For example
   
 After hearing these terms one with another let's jump to some of the definitions and try to see if it helps to clear this jargon.
 
-### Artificial Intelligence
+### Artificial Intelligence (AI)
 
-**Artificial intelligence (AI)**, sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals.
+              sometimes called machine intelligence, is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans and other animals.
 
 
 ### Machine Learning
 
-**Machine learning** is a field of computer science that uses statistical techniques to give computer systems the ability to "learn" with data, and without being explicitly programmed.
+              is a field of computer science that uses _statistical techniques_ to give computer systems the ability to _"learn"_ with _data_, and _without being explicitly programmed_.
 
 
 ### Data Science
 
-**Data science** is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from data in various forms, both structured and unstructured,  similar to data mining.
+              is an _interdisciplinary_ field that uses _scientific methods, processes, algorithms_ and systems to extract _knowledge_ and insights from data in various forms, _both structured and unstructured_,  similar to data mining.
 
 
 ### Pattern Recognition
 
-**Pattern recognition** is the automated recognition of patterns and regularities in data.
+              is the automated _recognition of patterns_ and regularities _in data_.
 
 
 ### Computer Vision
 
-**Computer vision** is an interdisciplinary field that deals with how computers can be made to gain high-level understanding from digital images or videos and automate tasks that the human visual system can do.
+              is an _interdisciplinary field_ that deals with how computers can be made to gain _high-level understanding_ from digital _images or videos_ and _automate tasks that the human visual system_ can do.
 
 
 ### Deep Learning
 
-**Deep Learning** is a new area of Machine Learning research, which has been introduced with the objective of moving Machine Learning closer to one of its original goals: Artificial Intelligence.
+              is a new area of _Machine Learning research_, which has been introduced with the objective of moving Machine Learning closer to one of its original goals: _Artificial Intelligence_.
