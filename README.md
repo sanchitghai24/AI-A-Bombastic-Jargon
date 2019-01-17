@@ -95,5 +95,5 @@ Let's solve this problem with an alternate approach and split everything to 3 ca
 
 ## So What is AI ?
 AI encompasses all of this i.e. Abilities, Tasks, Methods.
-<img src='images/AI_Map.jpeg'>
+<img src='images/AI_Map.JPG'>
 
