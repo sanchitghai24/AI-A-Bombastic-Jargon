@@ -24,7 +24,7 @@ sometimes called machine intelligence, is intelligence demonstrated by machines,
 
 
 ### Machine Learning
-is a field of computer science that uses <span style="color:blue">_statistical techniques_</span> to give computer systems the ability to _"learn"_ with _data_, and _without being explicitly programmed_.
+is a field of computer science that uses <span style="color:green">_statistical techniques_</span> to give computer systems the ability to _"learn"_ with _data_, and _without being explicitly programmed_.
 
 
 ### Data Science
