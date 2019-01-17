@@ -3,3 +3,6 @@ logo: './images/jagron_bubble.JPG'
 
 github:
   is_project_page: false
+
+plugins:
+  - jekyll-seo-tag
