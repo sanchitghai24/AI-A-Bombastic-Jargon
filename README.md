@@ -61,15 +61,39 @@ Let's solve this problem with an alternate approach and split everything to 3 ca
 - Task
 - Methods
 
-### Task
-  1. We can see (Computer Vision)
-  2. We can speak and hear (Speech)
-  3. We can Read and Write (Natural Language Processing)
-  4. We make decisions all day long (Reinforcement Learning)
+### Abilities
+  1. Seeing (Computer Vision)
+  2. Speaking and Hearing (Speech)
+  3. Reading and Writing (Natural Language Processing)
+  4. Making Decisions (Reinforcement Learning)
   
 
-### tasks
-  ####Computer Vision
-    - If you can classify two or more animals using there demographics. <img src='https://cdn-images-1.medium.com/max/1280/1*biZq-ihFzq1I6Ssjz7UtdA.jpeg'>
-    - If you can recognize handwritten digits. <img src='https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Examples-from-the-MNIST-dataset.png'>
-    - If you can detect an object in an image like, Coffee, Phone, Glasses etc. <img src='https://www.envano.com/wp-content/uploads/2017/08/AI_Object_Recognition_Feature_Img.jpg'>
+### Tasks
+####Computer Vision
+  - Classifying two or more animals using there demographics. <img src='https://cdn-images-1.medium.com/max/1280/1*biZq-ihFzq1I6Ssjz7UtdA.jpeg'>
+  - Recognizing handwritten digits. <img src='https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Examples-from-the-MNIST-dataset.png'>
+  - Detecting an object in an image like, Coffee, Phone, Glasses etc. <img src='https://www.envano.com/wp-content/uploads/2017/08/AI_Object_Recognition_Feature_Img.jpg'>
+  
+#### Speech
+  - Retieving back something heard.
+  - Converting this article to speech.
+  - Hearing two different people speaking and able to distinguish between voices.
+  
+### Natural Processing Language
+  - Classifying a spam or ham emails.
+  - Translating something written from Hindi to English or vice-versa.
+  
+### Reinforcement Learning
+  - The most common example we know is _Autonomous Driving_.
+  - Alpha GO.
+  - Teaching a robot to lift things according to their weight.
+  
+  
+### Methods
+ - All the abbove tasks can be solved with Expert Systems, Logistic Regression, SVM, Graph Methods, Recurrent Neural Networks(RNN), Convolutional Neural Networks(CNN) and many more.
+
+
+** So What is AI ? **
+AI encompasses all of this i.e. Abilities, Tasks, Methods.
+<img src='./images/AI_Map.jpeg'>
+
