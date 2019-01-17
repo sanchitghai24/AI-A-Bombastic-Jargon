@@ -111,4 +111,4 @@ AI encompasses all of this i.e. Abilities, Tasks, Methods.
 
 If I give the following data to the model and I get an Expert System program in return, as the machine itself creates some logics and rules to come at this conclusion. This is an example of Supervised Learning. Most of the Machine Learning is comprised of Supervised Learning only.
 
-<img src='https://www.hippovideo.io/video/play/mwlRywv6cdNC9soN0Ne67DVV35gx-ozJdeVvVMKlQsU'>
+<img src='images/New GIF.gif'>
