@@ -74,7 +74,7 @@ Let's solve this problem with an alternate approach and split everything to 3 ca
   - Recognizing handwritten digits. 
   - Detecting an object in an image like, Coffee, Phone, Glasses etc.
   
-<img style="max-width:30%; margin:2%" src='https://cdn-images-1.medium.com/max/1280/1*biZq-ihFzq1I6Ssjz7UtdA.jpeg'><img style="max-width:30%; margin:2%" src='https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Examples-from-the-MNIST-dataset.png'><img style="max-width:30%; margin:2%" src='https://www.envano.com/wp-content/uploads/2017/08/AI_Object_Recognition_Feature_Img.jpg'>
+<img style="width:30%; margin:2%" src='https://cdn-images-1.medium.com/max/1280/1*biZq-ihFzq1I6Ssjz7UtdA.jpeg'><img style="width:30%; margin:2%" src='https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Examples-from-the-MNIST-dataset.png'><img style="width:30%; margin:2%" src='https://www.envano.com/wp-content/uploads/2017/08/AI_Object_Recognition_Feature_Img.jpg'>
   
 #### Speech
   - Retieving back something heard.
