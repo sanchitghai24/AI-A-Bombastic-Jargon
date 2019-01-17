@@ -69,7 +69,7 @@ Let's solve this problem with an alternate approach and split everything to 3 ca
   
 
 ### Tasks
-####Computer Vision
+#### Computer Vision
   - Classifying two or more animals using there demographics. <img src='https://cdn-images-1.medium.com/max/1280/1*biZq-ihFzq1I6Ssjz7UtdA.jpeg'>
   - Recognizing handwritten digits. <img src='https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/Examples-from-the-MNIST-dataset.png'>
   - Detecting an object in an image like, Coffee, Phone, Glasses etc. <img src='https://www.envano.com/wp-content/uploads/2017/08/AI_Object_Recognition_Feature_Img.jpg'>
