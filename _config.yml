@@ -1,2 +1,5 @@
 theme: jekyll-theme-minimal
 logo: './images/jagron_bubble.JPG'
+
+github:
+  is_project_page: false
